@@ -1,0 +1,1 @@
+Get-Content -Path "C:\Users\blkbu\AppData\Local\Temp\GrokShare.psm1.txt" -Raw
