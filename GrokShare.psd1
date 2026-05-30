@@ -1,0 +1,1 @@
+Get-Content -Path "C:\Users\blkbu\OneDrive\Documents\WindowsPowerShell\Modules\GrokShare\GrokShare.psd1" -Raw
