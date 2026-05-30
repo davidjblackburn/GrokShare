@@ -1,1 +1,28 @@
-Get-Content -Path "C:\Users\blkbu\OneDrive\Documents\WindowsPowerShell\Modules\GrokShare\.gitignore" -Raw
+# PowerShell
+*.ps1xml
+*.log
+*.swp
+*~
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+
+# Module build / test artifacts
+*.nupkg
+TestResults/
+coverage.xml
